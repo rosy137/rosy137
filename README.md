@@ -52,10 +52,11 @@
 
   <br>
 
-  #
+  <!-- #
   
   <h3>GIT</h3>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosy137&layout=compact">
-  </div>
+  </div> 
+  -->
 </div>
