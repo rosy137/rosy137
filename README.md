@@ -7,7 +7,7 @@
 
 <div align=center>
 
-  <h3>😇 TECT STACK 😇</h3>
+  <h3>😇 TECHNOLOGY STACK 😇</h3>
 
   <h4>FRONT-END</h4>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
